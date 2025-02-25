@@ -10,7 +10,7 @@
 ---
 
 ## 🛠️ 技能
-- **程式語言**: JavaScript (Node.js), Python (Discord.py)
+- **程式語言**: JavaScript (Node.js)學習中, Python (Discord.py)
 ---
 ## 📫 聯絡方式
 💬 Discord: `eugene526`
