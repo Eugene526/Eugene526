@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 關於我
-- 🎮 **Minecraft** 玩家，目前正在研究Spigot插件
+- 🎮 **Minecraft** 玩家
 - 🤖 **Discord Bot** 開發者，使用 **Node.js**、**discord.js** 和 **Discord.py**，目前主要以Discord.py為主要框架
 
 ---
