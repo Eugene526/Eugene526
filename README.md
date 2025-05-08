@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 關於我
-- 🎮 **Minecraft** 玩家
+- 🎮 一個普通的**Minecraft** 玩家
 - 🤖 **Discord Bot** 開發者，使用 **Node.js**、**discord.js** 和 **Discord.py**，目前主要以Discord.py為主要框架
 
 ---
